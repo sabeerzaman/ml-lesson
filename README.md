@@ -1,16 +1,15 @@
 # Supervised Learning: Classification and Prediction (aka, Regression)
 
-<!-- TOC -->
+<!-- TOC depthFrom:2 -->
 
-- [Supervised Learning: Classification and Prediction (aka, Regression)](#supervised-learning-classification-and-prediction-aka-regression)
-  - [Challenge / Activity](#challenge--activity)
-    - [Instructions](#instructions)
-      - [Classification problem: Breast Cancer Diagnosis from Diagnostic Images](#classification-problem-breast-cancer-diagnosis-from-diagnostic-images)
-      - [Regression problem: Predict Boston housing prices](#regression-problem-predict-boston-housing-prices)
-    - [Hints](#hints)
-  - [Jupyter Notebook setup](#jupyter-notebook-setup)
-  - [Without Jupyter Notebook](#without-jupyter-notebook)
-  - [Additional Readings / Resources](#additional-readings--resources)
+- [Challenge / Activity](#challenge--activity)
+  - [Instructions](#instructions)
+    - [Classification problem: Breast Cancer Diagnosis from Diagnostic Images](#classification-problem-breast-cancer-diagnosis-from-diagnostic-images)
+    - [Regression problem: Predict Boston housing prices](#regression-problem-predict-boston-housing-prices)
+  - [Hints](#hints)
+- [Jupyter Notebook setup](#jupyter-notebook-setup)
+- [Without Jupyter Notebook](#without-jupyter-notebook)
+- [Additional Readings / Resources](#additional-readings--resources)
 
 <!-- /TOC -->
 
