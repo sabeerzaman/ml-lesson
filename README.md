@@ -72,7 +72,7 @@ Here are the notes to key steps / commands from scikit-learn used in the in-clas
     score = clf.score(X_test, y_test)
     ```
 
-If you're really stuck, you can peek at the Jupyter notebooks in the "Lesson Notebooks" folder in this repository... but challenge yourself first!
+If you're really stuck, you can peek at the Jupyter notebooks in the ["lesson_notebooks/"](./lesson_notebooks/) folder in this repository... but challenge yourself first!
 
 ## Jupyter Notebook setup
 
